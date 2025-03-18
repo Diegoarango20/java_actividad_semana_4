@@ -7,7 +7,7 @@ public class PropinaRestaurante {
     Scanner scanner = new Scanner(System.in);
 
 
-        // Ingresa el valor de la cuenta:
+        // Nombre del cliente:
 
         System.out.println("Hola por favor ingrese su nombre");
         String nombreCliente = scanner.nextLine();
