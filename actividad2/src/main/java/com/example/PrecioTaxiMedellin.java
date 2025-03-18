@@ -21,6 +21,7 @@ public class PrecioTaxiMedellin {
         System.out.println("Ingrese el tiempo que espera pasar en tráfico,en minutos,por ejemplo: 10");
         int tiempoEspera = scanner.nextInt();
 
+        
         //Calcula el precio del viaje:
 
         int tarifaBase = 4000;
