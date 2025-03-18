@@ -14,12 +14,12 @@ public class PrecioTaxiMedellin {
         //Ingresa la distancia del viaje
 
         System.out.println("Ingrese la distancia del viaje en kilómetros, por ejemplo: 8.2");
-        double distancia = scanner.nextDouble(); scanner.nextLine();
+        double distancia = scanner.nextDouble();
 
         // Ingresa el tiempo de espera en tráfico:
 
         System.out.println("Ingrese el tiempo que espera pasar en tráfico,en minutos,por ejemplo: 10");
-        int tiempoEspera = scanner.nextInt();  scanner.nextLine();
+        int tiempoEspera = scanner.nextInt();
 
         //Calcula el precio del viaje:
 
